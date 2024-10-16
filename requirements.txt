@@ -1,0 +1,5 @@
+audiomentations
+librosa
+soundfile
+matplotlib
+torch==
