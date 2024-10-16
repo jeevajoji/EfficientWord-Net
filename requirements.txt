@@ -2,4 +2,4 @@ audiomentations
 librosa
 soundfile
 matplotlib
-torch==
+torch==2.4.1
